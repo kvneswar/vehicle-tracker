@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387050746780",
+    "firebase_url": "https://vechicle-tracker-94b25.firebaseio.com",
+    "project_id": "vechicle-tracker-94b25",
+    "storage_bucket": "vechicle-tracker-94b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387050746780:android:e15834eb30f34258",
+        "android_client_info": {
+          "package_name": "com.akshar.vehicletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387050746780-kc0375onjup4dvh9siuvsifivbqs1gi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshar.vehicletracker",
+            "certificate_hash": "cea53773e3f46807a4985a9f71391e945e452537"
+          }
+        },
+        {
+          "client_id": "387050746780-qronb6a0smgou2qfs1i2bdn9fkisuvm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfRxktCt_zoEOUC7-kw1MDAkqK-Kmfrm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387050746780-qronb6a0smgou2qfs1i2bdn9fkisuvm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
